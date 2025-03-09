@@ -1,0 +1,3 @@
+STM32F407ZGT6 kullanarak FSMC (Flexible Static Memory Controller) modu ile TFT ekran sürmek isteyenler için mükemmel bir kaynak var. Bu projede, FSMC ile TFT ekranları nasıl kontrol edebileceğinizi adım adım öğrenebilir ve uygulamalı örneklerle geliştirmelerinizi yapabilirsiniz. TFT ekranın verimli bir şekilde sürülmesi için gerekli tüm ayarları ve optimizasyonları keşfedeceksiniz.
+
+https://github.com/wegi1/STM32F407ZGT6-BLACK-BENCHMARK
